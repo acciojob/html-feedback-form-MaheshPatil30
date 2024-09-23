@@ -1,2 +1,15 @@
 
 /* Your CSS Code here. */
+form{
+	line-height: 2;
+}
+button{
+	border: 2px solid orange;
+	background-color: orange;
+	border-radius: 5px;
+	width: 80px;
+	height: 30px;
+	font-size: 17px;
+	color: blue;
+}
+
